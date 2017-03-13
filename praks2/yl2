@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# arvamussskript
+#
+echo "Kevin-Karl Männiste "	# väljasta reavahetusga Kevin-Karl Männiste 
+echo "ISP16"		# väljasta reavahetusega User
+echo "Mulle tundub antud aine keeruline ja huvitav"		# väljasta ! ja tee reavahetus
+echo "praegune mulje on hea ja ei tundu, et olen väga edasijõudnud"  #väljasta reavahetusega rida
+#
+# skripti lõpp
